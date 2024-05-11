@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  contacts-app
-//
-//  Created by Engjell Sela on 29.4.24.
-//
-
 import UIKit
 
 class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSource, UISearchBarDelegate, NewContactControllerDelegate, ContactDetailsControllerDelegate {

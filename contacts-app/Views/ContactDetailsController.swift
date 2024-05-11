@@ -1,10 +1,3 @@
-//
-//  ContactDetailsController.swift
-//  contacts-app
-//
-//  Created by Engjell Sela on 3.5.24.
-//
-
 import UIKit
 
 protocol ContactDetailsControllerDelegate: AnyObject {

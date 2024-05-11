@@ -1,10 +1,3 @@
-//
-//  NewContactController.swift
-//  contacts-app
-//
-//  Created by Engjell Sela on 9.5.24.
-//
-
 import UIKit
 
 protocol NewContactControllerDelegate: AnyObject {
